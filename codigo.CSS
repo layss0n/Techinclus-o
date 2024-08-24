@@ -1,0 +1,45 @@
+body{font-family: Arial, Helvetica, sans-serif;
+background-color: lightgray;
+color: #333;
+margin: 0;
+padding: 0;}
+
+h1{color: white;
+    margin-top: 50px;
+    margin-bottom: 20px; 
+    margin-left: inherit; 
+    margin-right: auto; 
+    text-align: center}
+
+p{font-size: 15px;
+line-height: 1.6;
+margin: 20px;
+text-align: justify;}
+
+#header{background-color: #333;
+color: white;
+padding: 20px;
+text-align: center;}
+
+.conteudo{background-color: white;
+padding: 20px;
+margin: 20px;
+border: 1px solid #ddd;}
+
+#footer {background-color: #333;
+color: white;
+text-align: center;
+padding: 10px;
+position: fixed;
+bottom: 0;
+width: 100%;
+height: 5%;}
+
+.botao{background-color: #4CAF50;
+color: white;
+padding: 10px 20px;
+border: none;
+border-radius: 5px;
+cursor: pointer;}
+
+.botao:hover {background-color: #45a049;}
